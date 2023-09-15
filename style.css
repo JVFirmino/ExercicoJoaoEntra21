@@ -1,0 +1,229 @@
+.mae{
+    
+    display: flex;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    
+    
+}
+
+.fotos{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    
+}
+
+
+.foto{
+    width: 50px;
+}
+
+
+#titulo{
+    padding-left: 4px;
+    color: rgba(255, 255, 90, 0.782);
+}
+
+.redes{
+    padding-left: 1000px;
+    display: flex;
+    padding-top: 18px;
+    margin-left: 400px;
+}
+
+.submae{
+    padding-left: 10px;
+    
+
+}
+
+.submae:hover{
+    color: white;
+}
+
+.pai{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 70px;
+}
+
+#inserir{
+    padding-left: 60px ;
+    margin-bottom: 14px;
+}
+
+.mae .redes .submae a{
+    
+    text-decoration: none;
+    color: rgb(60, 60, 187);
+}
+
+
+
+.pai .produtos{
+    border:solid rgb(112, 112, 231) 2px;
+    margin: 4px;
+    padding: 15px;
+}
+
+.pai .produtos img{
+    width: 200px;
+    
+}
+
+.inf1{
+   text-align: center;
+   margin-top: 40px;
+}
+
+.inf2{
+    
+    text-align: center;
+    margin-top: 85px;
+}
+
+.inf3{
+    text-align: center;
+    margin-bottom: 3px;
+}
+
+.prod{
+    color:  rgb(60, 60, 187);
+}
+
+.submae:hover .escolha{
+    display: block;
+    
+}
+
+
+
+
+.baixo{
+    margin-top: 75vh;
+    background-color: rgb(109, 161, 220);
+    color: rgb(60, 60, 187);
+    border: solid rgb(109, 161, 220) 1px ;
+    border-radius: 3px;
+}
+
+.escolha{
+    display: none;
+}
+
+
+span{
+    background-color: rgb(109, 161, 220);
+    border: solid rgb(109, 161, 220) 1px ;
+    border-radius: 3px;
+
+    
+}
+
+.cad{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.tudo{
+    
+    justify-content: center;
+    border: solid black 3px;
+    border-radius: 5px;
+    margin-top: 100px;
+    padding: 50px;
+    background-color: yellow;
+}
+
+.s{
+    margin: 5px;
+    border: solid black 2px;
+    border-radius: 5px;
+    padding: 5px;
+    font-family: 'Lucida Sans';
+}
+
+.b .tudo .d{
+    
+    margin-left: 100px;
+    
+}
+
+.b .tudo .d a{
+    text-decoration: none;
+    color: blue;
+}
+
+.b{
+    background-color: rgb(109, 161, 220);
+}
+
+.cad .tudo .d{
+    border: solid black 2px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+.gg{
+    display: flex;
+    justify-content: center;
+
+}
+
+.w{
+    margin-left: 100px;
+}
+
+#h{
+    margin-top: 60px;
+    text-align: center;
+    color: yellow;
+    font-family: 'Lucida Sans';
+}
+
+.c{
+    background-color: yellow;
+}
+
+a{
+    text-decoration: none;
+}
+
+.z{
+    margin-left: 135px;
+}
+
+.maria{
+    background-color: rgb(109, 161, 220);
+}
+.pedro{
+    text-align: center;
+}
+
+.joao{
+    text-align: center;
+}
+
+.breno{
+    color: red;
+    font-family: 'Lucida Sans';
+    text-align: center;
+}
+
+.biden{
+
+    color: red;
+    font-family: 'Lucida Sans';
+    text-align: center;
+}
+
+.baixo .baixoo{
+    margin-left: 4px;
+}
+
+p{
+    text-align: center;
+}
