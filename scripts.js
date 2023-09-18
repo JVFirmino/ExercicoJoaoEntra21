@@ -57,7 +57,7 @@ function maluno(){
     else if(nota1 < 0 || nota2 < 0 || nota3 < 0 || frequencia < 0 ){
         mensagem.innerHTML = "Preencha os campos com valores positivos"
     }
-    else if(media > 7 && frequencia > 7){
+    else if(media >= 7 && frequencia >= 75){
         mensagem.innerHTML = "APROVADO"
     }
     else{
@@ -110,7 +110,7 @@ function mimc(){
 function cargooo(){
 
     let mensagem = document.querySelector(".breno")
-    let mensagemm = document.querySelector(".biden")
+
 
     let cargos = document.querySelector("#cargo").value
     let salarios = parseFloat (document.querySelector("#salario").value)
