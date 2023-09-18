@@ -80,8 +80,8 @@ function mimc(){
     if(isNaN(pesos) || isNaN(alturas)){
         mensagem.innerHTML = "Preencha os campos"
     }
-    else if(pesos < 0 || alturas < 0){
-        mensagem.innerHTML = "Preencha os campos com valores positivos"
+    else if(pesos < 0 || alturas < 0 ||pesos == 0 || alturas == 0){
+        mensagem.innerHTML = "Preencha os campos com valores positivos ou maiores que 0"
     }
     else if (imc < 17){
         mensagem.innerHTML = "Muito abaixo do peso"
