@@ -17,12 +17,20 @@
 
 function midade(){
 
-    let idade = document.querySelector("#idade").value
+    let idade = parseFloat(document.querySelector("#idade").value)
     let mensagem = document.querySelector(".breno")
-    if(idade >= 18){
+
+    
+    if(isNaN(idade)){
+        mensagem.innerHTML = "Preencha os campos"
+    }
+    else if(idade < 0){
+        mensagem.innerHTML = "Preencha os campos com valores positivos"
+
+    }
+    else if(idade >= 18){
         
-        mensagem.innerHTML = "MAIOR DE IDADE"
-       
+        mensagem.innerHTML = "MAIOR DE IDADE"     
         
     }
     else{
@@ -39,11 +47,17 @@ function maluno(){
     let nota2 = parseFloat (document.querySelector("#nota2").value)
     let nota3 = parseFloat (document.querySelector("#nota3").value)
 
-    let frequencia = document.querySelector("#frequencia").value
+    let frequencia = parseFloat (document.querySelector("#frequencia").value)
 
     let media = (nota1 + nota2 + nota3)/3
 
-    if(media > 7 && frequencia > 7){
+    if(isNaN(nota1)||isNaN(nota2) ||isNaN(nota3)|| isNaN(frequencia)){
+        mensagem.innerHTML = "Preencha os campos"
+    }
+    else if(nota1 < 0 || nota2 < 0 || nota3 < 0 || frequencia < 0 ){
+        mensagem.innerHTML = "Preencha os campos com valores positivos"
+    }
+    else if(media > 7 && frequencia > 7){
         mensagem.innerHTML = "APROVADO"
     }
     else{
@@ -63,7 +77,13 @@ function mimc(){
     let alturasq = alturas * alturas
     let imc = pesos / alturasq
 
-    if (imc < 17){
+    if(isNaN(pesos) || isNaN(alturas)){
+        mensagem.innerHTML = "Preencha os campos"
+    }
+    else if(pesos < 0 || alturas < 0){
+        mensagem.innerHTML = "Preencha os campos com valores positivos"
+    }
+    else if (imc < 17){
         mensagem.innerHTML = "Muito abaixo do peso"
     }
     else if(imc >= 17 && imc <= 18.49){
@@ -97,28 +117,30 @@ function cargooo(){
     let fsalario
     let dsalarios
 
-    if(cargos == "gerente"){
+    if(cargos == "" || isNaN(salarios)){
+        mensagem.innerHTML = "Preencha os campos"
+    }
+    else if(cargos == "gerente"){
         dsalarios = (salarios/100)*5
         fsalario = salarios  + dsalarios
-        mensagem.innerHTML = fsalario
-        mensagemm.innerHTML = salarios
+        mensagem.innerHTML = `Salário final [${fsalario}] e Salário inicial [${salarios}]`
     }
     else if (cargos == "supervisor"){
         dsalarios = (salarios/100)*8
         fsalario = salarios + dsalarios
-        mensagem.innerHTML = fsalario
-        mensagemm.innerHTML = salarios
+        mensagem.innerHTML = `Salário final [${fsalario}] e Salário inicial [${salarios}]`
     }
     else if (cargos == "operador"){
         dsalarios = (salarios/100)*9
         fsalario = salarios + dsalarios
-        mensagem.innerHTML = fsalario
-        mensagemm.innerHTML = salarios
+        mensagem.innerHTML = `Salário final [${fsalario}] e Salário inicial [${salarios}]`
     }
     else if(cargos == "colaborador"){
         dsalarios = (salarios/100)*10
         fsalario = salarios + dsalarios
-        mensagem.innerHTML = fsalario
-        mensagemm.innerHTML = salarios
+        mensagem.innerHTML = `Salário final [${fsalario}] e Salário inicial [${salarios}]`
+    }
+    else{
+        mensagem.innerHTML = "Digite a opção"
     }
 }
