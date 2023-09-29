@@ -1,20 +1,4 @@
 
-/*let lista = document.getElementById("lista")
-
-
-
-    console.log(lista)
-
-    function mostrar(){
-        lista.style.display = "block"
-    }
-
-    function fora(){
-        lista.style.display = "none"
-    }
-*/
-
-
 function midade(){
 
     let idade = parseFloat(document.querySelector("#idade").value)

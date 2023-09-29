@@ -1,0 +1,74 @@
+div{
+    text-align: center;
+}
+body{
+    background-color: rgb(109, 161, 220);
+}
+
+h1{
+    text-align: center;
+    font-family: 'Lucida Sans';
+}
+
+.registro{
+    border: 3px solid black;
+    background-color: yellow;
+}
+.numeross{
+    margin-top: 5px;
+}
+
+.listar{
+    color: red;
+    
+}
+
+.descobrir{
+    margin-top: 5px;
+    margin-left: 2px;
+}
+
+.juntos{
+    display:flex;
+    justify-content: center;
+
+}
+
+.pmostrar{
+    color: red;
+}
+
+.excluindo{
+    margin-bottom: 10px;
+}
+
+.ordenados{
+    display:flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.ordenar{
+    color: red;
+}
+
+.dec{
+    color: red;
+}
+
+.normal{
+    color:red;
+}
+
+.meiuca{
+    margin-right: 5px;
+    margin-left: 5px;
+}
+a{
+    text-decoration: none;
+    color: rgb(60, 60, 187);
+    
+}
+.jj{
+    text-align: center;
+}
