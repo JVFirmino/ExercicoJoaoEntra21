@@ -1,0 +1,14 @@
+C:\Users\Pedro João\source\repos\Carro1\Carro1\bin\Debug\net6.0\Carro1.exe
+C:\Users\Pedro João\source\repos\Carro1\Carro1\bin\Debug\net6.0\Carro1.deps.json
+C:\Users\Pedro João\source\repos\Carro1\Carro1\bin\Debug\net6.0\Carro1.runtimeconfig.json
+C:\Users\Pedro João\source\repos\Carro1\Carro1\bin\Debug\net6.0\Carro1.dll
+C:\Users\Pedro João\source\repos\Carro1\Carro1\bin\Debug\net6.0\Carro1.pdb
+C:\Users\Pedro João\source\repos\Carro1\Carro1\obj\Debug\net6.0\Carro1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro João\source\repos\Carro1\Carro1\obj\Debug\net6.0\Carro1.AssemblyInfoInputs.cache
+C:\Users\Pedro João\source\repos\Carro1\Carro1\obj\Debug\net6.0\Carro1.AssemblyInfo.cs
+C:\Users\Pedro João\source\repos\Carro1\Carro1\obj\Debug\net6.0\Carro1.csproj.CoreCompileInputs.cache
+C:\Users\Pedro João\source\repos\Carro1\Carro1\obj\Debug\net6.0\Carro1.dll
+C:\Users\Pedro João\source\repos\Carro1\Carro1\obj\Debug\net6.0\refint\Carro1.dll
+C:\Users\Pedro João\source\repos\Carro1\Carro1\obj\Debug\net6.0\Carro1.pdb
+C:\Users\Pedro João\source\repos\Carro1\Carro1\obj\Debug\net6.0\Carro1.genruntimeconfig.cache
+C:\Users\Pedro João\source\repos\Carro1\Carro1\obj\Debug\net6.0\ref\Carro1.dll
