@@ -1,0 +1,14 @@
+C:\Users\Pedro João\source\repos\ColecaoProdutos\ColecaoProdutos\bin\Debug\net6.0\ColecaoProdutos.exe
+C:\Users\Pedro João\source\repos\ColecaoProdutos\ColecaoProdutos\bin\Debug\net6.0\ColecaoProdutos.deps.json
+C:\Users\Pedro João\source\repos\ColecaoProdutos\ColecaoProdutos\bin\Debug\net6.0\ColecaoProdutos.runtimeconfig.json
+C:\Users\Pedro João\source\repos\ColecaoProdutos\ColecaoProdutos\bin\Debug\net6.0\ColecaoProdutos.dll
+C:\Users\Pedro João\source\repos\ColecaoProdutos\ColecaoProdutos\bin\Debug\net6.0\ColecaoProdutos.pdb
+C:\Users\Pedro João\source\repos\ColecaoProdutos\ColecaoProdutos\obj\Debug\net6.0\ColecaoProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro João\source\repos\ColecaoProdutos\ColecaoProdutos\obj\Debug\net6.0\ColecaoProdutos.AssemblyInfoInputs.cache
+C:\Users\Pedro João\source\repos\ColecaoProdutos\ColecaoProdutos\obj\Debug\net6.0\ColecaoProdutos.AssemblyInfo.cs
+C:\Users\Pedro João\source\repos\ColecaoProdutos\ColecaoProdutos\obj\Debug\net6.0\ColecaoProdutos.csproj.CoreCompileInputs.cache
+C:\Users\Pedro João\source\repos\ColecaoProdutos\ColecaoProdutos\obj\Debug\net6.0\ColecaoProdutos.dll
+C:\Users\Pedro João\source\repos\ColecaoProdutos\ColecaoProdutos\obj\Debug\net6.0\refint\ColecaoProdutos.dll
+C:\Users\Pedro João\source\repos\ColecaoProdutos\ColecaoProdutos\obj\Debug\net6.0\ColecaoProdutos.pdb
+C:\Users\Pedro João\source\repos\ColecaoProdutos\ColecaoProdutos\obj\Debug\net6.0\ColecaoProdutos.genruntimeconfig.cache
+C:\Users\Pedro João\source\repos\ColecaoProdutos\ColecaoProdutos\obj\Debug\net6.0\ref\ColecaoProdutos.dll
