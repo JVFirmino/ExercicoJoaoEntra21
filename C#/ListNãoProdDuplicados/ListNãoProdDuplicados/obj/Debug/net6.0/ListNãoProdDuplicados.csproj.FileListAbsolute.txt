@@ -1,0 +1,14 @@
+C:\Users\Pedro João\source\repos\ListNãoProdDuplicados\ListNãoProdDuplicados\bin\Debug\net6.0\ListNãoProdDuplicados.exe
+C:\Users\Pedro João\source\repos\ListNãoProdDuplicados\ListNãoProdDuplicados\bin\Debug\net6.0\ListNãoProdDuplicados.deps.json
+C:\Users\Pedro João\source\repos\ListNãoProdDuplicados\ListNãoProdDuplicados\bin\Debug\net6.0\ListNãoProdDuplicados.runtimeconfig.json
+C:\Users\Pedro João\source\repos\ListNãoProdDuplicados\ListNãoProdDuplicados\bin\Debug\net6.0\ListNãoProdDuplicados.dll
+C:\Users\Pedro João\source\repos\ListNãoProdDuplicados\ListNãoProdDuplicados\bin\Debug\net6.0\ListNãoProdDuplicados.pdb
+C:\Users\Pedro João\source\repos\ListNãoProdDuplicados\ListNãoProdDuplicados\obj\Debug\net6.0\ListNãoProdDuplicados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro João\source\repos\ListNãoProdDuplicados\ListNãoProdDuplicados\obj\Debug\net6.0\ListNãoProdDuplicados.AssemblyInfoInputs.cache
+C:\Users\Pedro João\source\repos\ListNãoProdDuplicados\ListNãoProdDuplicados\obj\Debug\net6.0\ListNãoProdDuplicados.AssemblyInfo.cs
+C:\Users\Pedro João\source\repos\ListNãoProdDuplicados\ListNãoProdDuplicados\obj\Debug\net6.0\ListNãoProdDuplicados.csproj.CoreCompileInputs.cache
+C:\Users\Pedro João\source\repos\ListNãoProdDuplicados\ListNãoProdDuplicados\obj\Debug\net6.0\ListNãoProdDuplicados.dll
+C:\Users\Pedro João\source\repos\ListNãoProdDuplicados\ListNãoProdDuplicados\obj\Debug\net6.0\refint\ListNãoProdDuplicados.dll
+C:\Users\Pedro João\source\repos\ListNãoProdDuplicados\ListNãoProdDuplicados\obj\Debug\net6.0\ListNãoProdDuplicados.pdb
+C:\Users\Pedro João\source\repos\ListNãoProdDuplicados\ListNãoProdDuplicados\obj\Debug\net6.0\ListNãoProdDuplicados.genruntimeconfig.cache
+C:\Users\Pedro João\source\repos\ListNãoProdDuplicados\ListNãoProdDuplicados\obj\Debug\net6.0\ref\ListNãoProdDuplicados.dll
