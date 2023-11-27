@@ -1,0 +1,14 @@
+C:\Users\Pedro João\source\repos\Produto04\Produto04\obj\Debug\net6.0\Produto04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro João\source\repos\Produto04\Produto04\obj\Debug\net6.0\Produto04.AssemblyInfoInputs.cache
+C:\Users\Pedro João\source\repos\Produto04\Produto04\obj\Debug\net6.0\Produto04.AssemblyInfo.cs
+C:\Users\Pedro João\source\repos\Produto04\Produto04\obj\Debug\net6.0\Produto04.csproj.CoreCompileInputs.cache
+C:\Users\Pedro João\source\repos\Produto04\Produto04\bin\Debug\net6.0\Produto04.exe
+C:\Users\Pedro João\source\repos\Produto04\Produto04\bin\Debug\net6.0\Produto04.deps.json
+C:\Users\Pedro João\source\repos\Produto04\Produto04\bin\Debug\net6.0\Produto04.runtimeconfig.json
+C:\Users\Pedro João\source\repos\Produto04\Produto04\bin\Debug\net6.0\Produto04.dll
+C:\Users\Pedro João\source\repos\Produto04\Produto04\bin\Debug\net6.0\Produto04.pdb
+C:\Users\Pedro João\source\repos\Produto04\Produto04\obj\Debug\net6.0\Produto04.dll
+C:\Users\Pedro João\source\repos\Produto04\Produto04\obj\Debug\net6.0\refint\Produto04.dll
+C:\Users\Pedro João\source\repos\Produto04\Produto04\obj\Debug\net6.0\Produto04.pdb
+C:\Users\Pedro João\source\repos\Produto04\Produto04\obj\Debug\net6.0\Produto04.genruntimeconfig.cache
+C:\Users\Pedro João\source\repos\Produto04\Produto04\obj\Debug\net6.0\ref\Produto04.dll
