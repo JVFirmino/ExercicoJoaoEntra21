@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pedro João\\Source\\Repos\\ExercicoJoaoEntra21\\C#\\CarroExercicio01\\CarroExercicio01\\CarroExercicio01.csproj",
-      "projectName": "CarroExercicio01",
-      "projectPath": "C:\\Users\\Pedro João\\Source\\Repos\\ExercicoJoaoEntra21\\C#\\CarroExercicio01\\CarroExercicio01\\CarroExercicio01.csproj",
+      "projectUniqueName": "C:\\Users\\Pedro João\\source\\repos\\ExercicoJoaoEntra21\\C#\\RetanguloExercicio3\\RetanguloExercicio3\\RetanguloExercicio3.csproj",
+      "projectName": "RetanguloExercicio3",
+      "projectPath": "C:\\Users\\Pedro João\\source\\repos\\ExercicoJoaoEntra21\\C#\\RetanguloExercicio3\\RetanguloExercicio3\\RetanguloExercicio3.csproj",
       "packagesPath": "C:\\Users\\Pedro João\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pedro João\\Source\\Repos\\ExercicoJoaoEntra21\\C#\\CarroExercicio01\\CarroExercicio01\\obj\\",
+      "outputPath": "C:\\Users\\Pedro João\\source\\repos\\ExercicoJoaoEntra21\\C#\\RetanguloExercicio3\\RetanguloExercicio3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pedro João\\AppData\\Roaming\\NuGet\\NuGet.Config",
