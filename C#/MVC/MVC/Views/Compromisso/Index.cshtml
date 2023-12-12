@@ -1,0 +1,36 @@
+﻿@model List<Compromisso>
+
+@{
+    ViewData["Title"] = "Compromisso";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<a>@Html.ActionLink("Create", "Create")</a>
+<table class="table">
+    <tr>
+        <td>Id</td>
+        <td>Data</td>
+        <td>Local</td>
+        <td>Contato</td>
+        <td>Situação</td>
+        <td>Ações</td>
+
+    </tr>
+    @foreach (Compromisso item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Data</td>
+            <td>@item.Local.Name</td>
+            <td>@item.Contato.Name</td>
+            <td>@item.Situacao</td>
+            <td>@Html.ActionLink("Editar/", "Editar", new {id = item.Id}) @Html.ActionLink("Remover/", "Remover", new {id = item.Id}) @Html.ActionLink("Detalhes", "Detalhes", new {id = item.Id}) </td>
+        </tr>
+    }
+
+</table>
+
+
+
+

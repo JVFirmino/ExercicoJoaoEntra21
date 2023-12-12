@@ -1,0 +1,29 @@
+﻿@model List<Contato>
+
+@{
+    ViewData["Title"] = "Contato";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<a>@Html.ActionLink("Create", "Create")</a>
+<table class="table">
+    <tr>
+        <td>Id</td>
+        <td>Name</td>
+        <td>Email</td>
+        <td>Fone</td>
+        <td>Ações</td>
+    </tr>
+    @foreach(Contato item in Model)
+    {
+        <tr>
+           <td>@item.Id</td> 
+           <td>@item.Name</td>
+           <td>@item.Email</td>
+           <td>@item.Fone</td>
+           <td>@Html.ActionLink("Editar/", "Editar", new {id = item.Id}) @Html.ActionLink("Remover/", "Remover", new {id = item.Id}) @Html.ActionLink("Detalhes", "Detalhes", new {id = item.Id}) </td>
+        </tr>
+    }
+
+</table>
